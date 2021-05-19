@@ -3,7 +3,8 @@ Curiosity
   * Norway
   * Russia
   * Uzbekistan
-  * Morocco: bazaar (Marrakesh, Fez), oasis (), desert town ()
+  * Morocco: bazaar (Marrakesh, Fez), oasis (), fortified town (Ouarzazate, Ait Benhaddou)
+    * short trip: Marrakesh - Ouarzazate - Ait Benhaddou
   * Arab
     * desert (e.g., Dubai desert conservation reserve, Wadi Rum)
   * India
