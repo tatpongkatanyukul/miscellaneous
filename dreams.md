@@ -3,9 +3,9 @@ Curiosity
   * Norway
   * Russia
   * Uzbekistan
-  * Morocco: bazaar (Marrakesh, Fez), oasis (Tioute, Fint, Valley of Roses), fortified town (Ouarzazate, Ait Benhaddou), gateway to Sahara (Zagora, Merzouga)
-    * short trip: Marrakesh (2 days) - Ouarzazate - Ait Benhaddou - Fint oasis - Zagora (2 days)
-      * Essaouira (port city), Taroudant (charming town), 
+  * Morocco: bazaar (Marrakesh, Fez), oasis (Tioute, Fint, Tinghir), fortified town (Ouarzazate, Ait Benhaddou), gateway to Sahara (Zagora, Merzouga)
+    * short trip: 8 days: Marrakesh (2 days) - Ouarzazate - Ait Benhaddou - Fint oasis - Zagora (2 days) - Essaouira (2 days)
+      * Essaouira (port city), Taroudant (charming town)
   * Arab
     * desert (e.g., Dubai desert conservation reserve, Wadi Rum)
   * India
