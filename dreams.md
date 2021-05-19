@@ -10,7 +10,7 @@ Curiosity
   * India: hindu temple 
   * Africa: NPs, tribes (Masai village, !Khwa ttu San culture and education centre) 
     * Serengeti NP, Kruger NP, Lake Nakuru NP, Ngorongoro NP, Etosha NP, Amboseli NP, Lake Manyara NP, Virunga NP, Hwange NP, Namib-Naukluft NP
-  * Azerbaijan
+  * Azerbaijan: zoroastrian temple (Ateshgah of Baku), shi'ite mosque (Bibi-Heybat)
   * Borneo
     *  
   * Tahiti
