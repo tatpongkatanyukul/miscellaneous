@@ -5,7 +5,7 @@ Curiosity
   * Uzbekistan
   * Morocco: bazaar (Marrakesh, Fez), oasis (), fortified town (Ouarzazate, Ait Benhaddou)
     * short trip: Marrakesh - Ouarzazate - Ait Benhaddou
-      * Merzouga (gate to Sahara)
+      * Merzouga (gate to Sahara), Essaouira (port city)
   * Arab
     * desert (e.g., Dubai desert conservation reserve, Wadi Rum)
   * India
