@@ -7,7 +7,7 @@ Curiosity
     * short trip: 8 days: Marrakesh (2 days) - Ouarzazate - Ait Benhaddou - Fint oasis - Zagora (2 days) - Essaouira (2 days)
       * Essaouira (port city), Taroudant (charming town)
   * Arab
-    * desert (e.g., Dubai desert conservation reserve, Wadi Rum)
+    * desert (e.g., Dubai desert conservation reserve, Wadi Rum), arab culture (bedouin camp in Wadi Rum, bedouin village in Al Marmoom Desert Conservation Reserve), mosque
   * India
     * hindu temple 
   * Africa: 
