@@ -24,4 +24,4 @@ Curiosity
     * NPs: Bako NP, Gunung Mulu NP, Gunung Gading NP, Lambir Hills NP, Kubah NP, Niah NP, Kinabalu NP, Tawau Hills NP, Crocker Range NP, Ulu Temburong NP, Tanjung Puting NP, Sebangau NP
     * short trip: 7 days: Kuching (2 days) - Sarawak cultural village (1 day) - Semenggoh Wildlife Centre (1 day) - Bako NP (3 days)
   * Tahiti
-    * short trip: 4 days  
+    * short trip: 4 days: go with the conference (e.g., [PRCAI](https://www.pricai.org/2021/))
