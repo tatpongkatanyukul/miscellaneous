@@ -21,7 +21,7 @@ Curiosity
   * Azerbaijan: zoroastrian temple (Ateshgah of Baku), shi'ite mosque (Bibi-Heybat)
     * short trip: 3 days: Baku 
   * Borneo: NP, tribe
-    * NPs: Bako NP, Mulu NP, Gunung Gading NP, Lambir Hills NP, Kubah NP, Niah NP, Kinabalu NP, Tawau Hills NP, Crocker Range NP, Ulu Temburong NP, Tanjung Puting NP, Sebangau NP
+    * NPs: Bako NP, Gunung Mulu NP, Gunung Gading NP, Lambir Hills NP, Kubah NP, Niah NP, Kinabalu NP, Tawau Hills NP, Crocker Range NP, Ulu Temburong NP, Tanjung Puting NP, Sebangau NP
     * short trip: 7 days: Kuching (2 days) - Sarawak cultural village (1 day) - Semenggoh Wildlife Centre (1 day) - Bako NP (3 days)
   * Tahiti
     * short trip: 4 days  
